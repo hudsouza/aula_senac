@@ -1,0 +1,81 @@
+body {
+	background-color: antiquewhite;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+
+/*
+PONTO 	= CLASSE
+HASHTAG = ID
+*/
+.banner {
+	background-color: purple;
+	text-align: center;
+	color: white;
+	color: #ffffff;
+	color: rgb(255,255,255);
+	font-family: sans-serif;
+	margin-bottom: 100px;
+	padding: 20px 10px 10px 50px
+}
+.banner span {
+	font-size: 30px;
+}
+.banner a {
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+}
+.botao {
+	border: 1px solid #ffffff;
+	border-radius: 10px;
+	padding: 5px;
+}
+nav {
+	width: 300px;
+}
+nav div {
+	font-family: sans-serif;
+	padding: 20px;
+	margin: 2px;
+	
+	/* novas */
+	
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+
+
+.d1 {
+	background-color: aliceblue;
+}
+.d2 {
+	background-color: aqua;
+}
+.d3 {
+	background-color: aquamarine;
+}
+.d4 {
+	background-color: azure;
+}
+.d5 {
+	background-color: black;
+}
+.d6 {
+	background-color: blueviolet;
+}
+.d7 {
+	background-color: brown;
+}
+
+
+
+
+
+
+
+
+
